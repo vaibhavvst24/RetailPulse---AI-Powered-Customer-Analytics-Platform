@@ -10,7 +10,7 @@
 ### 🚀 AI-powered retail analytics platform for forecasting, churn prevention, segmentation, and inventory decisions.
 
 ---
-* Live Demo - https://retailpulse-ai-dashboard-8kmsh7m2ykcqtdrazkxsjd.streamlit.app
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red)](https://retailpulse---ai-powered-customer-analytics-platform-mxltxxkha.streamlit.app/)
 ## 📝 Project Overview
 
 **RetailPulse AI Dashboard** is an end-to-end analytics solution designed to transform raw retail data into strategic business intelligence. The platform addresses critical retail challenges—demand volatility, customer attrition, and inventory capital efficiency—using advanced machine learning and mathematical optimization.
