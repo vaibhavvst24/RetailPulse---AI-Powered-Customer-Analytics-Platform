@@ -170,7 +170,7 @@ A prescriptive module that suggests exact order quantities within a fixed budget
 **Vaibhav Singh Bains**  
 *Aspiring Data Scientist | Machine Learning Enthusiast*
 
-- 📧 [Email](mail:vaibhavvst8@gmail.com)
+- 📧 [Email](mailto:vaibhavvst8@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-singh-bains/)
 - 🐙 [GitHub](https://github.com/vaibhavvst24)
 
