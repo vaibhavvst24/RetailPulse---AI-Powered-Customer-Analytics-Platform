@@ -114,7 +114,7 @@ A prescriptive module that suggests exact order quantities within a fixed budget
 
 1. **Clone the repository:**
    ```bash
-   git clone [text](https://github.com/vaibhavvst24/RetailPulse---AI-Powered-Customer-Analytics-Platform)
+   git clone https://github.com/vaibhavvst24/RetailPulse---AI-Powered-Customer-Analytics-Platform
    cd RetailPulse---AI-Powered-Customer-Analytics-Platform
    ```
 
