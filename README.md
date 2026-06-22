@@ -32,17 +32,6 @@ By synthesizing predictive models with a user-friendly Streamlit interface, Reta
 
 ## 🏗️ Project Architecture
 
-The system follows a modular data science pipeline:
-
-```mermaid
-graph LR
-    A[Raw Data] --> B[Data Cleaning]
-    B --> C[Feature Engineering]
-    C --> D[ML Models]
-    D --> E[Streamlit Dashboard]
-    E --> F[Business Insights]
-```
-
 1.  **Data Layer**: Historical sales, customer profiles, and inventory logs.
 2.  **Processing Layer**: Temporal feature extraction, RFM calculation, and class imbalance handling.
 3.  **Intelligence Layer**: XGBoost (Forecasting), Random Forest (Churn), KMeans (Segmentation), and PuLP (Optimization).
